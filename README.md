@@ -1,6 +1,6 @@
 # Go Common
 
-A collection of useful Go utilities and helpers built with Go 1.24.4, leveraging Go's generics.
+A collection of useful Go utilities and helpers built with Go 1.18, leveraging Go's generics.
 
 ## Installation
 
