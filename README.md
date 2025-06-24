@@ -10,7 +10,7 @@ go get github.com/kitos7/go-common
 
 ## Requirements
 
-- Go 1.24 or higher (for generics support)
+- Go 1.18 or higher (for generics support)
 
 ## Features
 
